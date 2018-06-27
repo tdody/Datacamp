@@ -4,7 +4,7 @@ Contains certificate of completion and projects from Datacamp
 ## Syllabus - Data science career track
 https://www.datacamp.com/tracks/data-scientist-with-python
 
-This 22 course module covers the following materials:
+This 22-course module covers the following materials:
  - Data import using Python
  - Data cleaning and data exploration
  - Data visualisation
